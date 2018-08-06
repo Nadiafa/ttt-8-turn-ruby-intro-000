@@ -1,4 +1,4 @@
-require_relative '../lib/turn'
+
 
 # helper methods
 # display_board
