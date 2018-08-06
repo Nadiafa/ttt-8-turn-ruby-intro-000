@@ -1,4 +1,4 @@
 # helper methods
-display_board
-valid_move?
-move
+# display_board
+# valid_move?
+# move
