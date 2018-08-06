@@ -1,6 +1,8 @@
-
-
 # helper methods
-# display_board
+
+
+def display_board(board)
+  
+end
 # valid_move?
 # move
